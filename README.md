@@ -12,4 +12,4 @@ USAGE :
 
 ./navy pos1 (on the first terminal)
 
-./navy pid pos2
+./navy pid pos2 (pid is on the first terminal)
